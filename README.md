@@ -23,3 +23,4 @@ Alought this is a simple application, it demostrates many essential concepts:
 * Using an **Intent** to link two screens (activities) within your application.
 
 #####Walkthrough of all user stories:
+![todo_demo](https://cloud.githubusercontent.com/assets/1412043/5823812/a73a0288-a094-11e4-9f54-9d331692003f.gif)
